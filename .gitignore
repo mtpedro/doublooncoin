@@ -1,3 +1,4 @@
 *.swp
 Gemfile.lock
 bin*
+lib/wallet/keys/*
